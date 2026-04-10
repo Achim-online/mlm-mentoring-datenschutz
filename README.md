@@ -25,5 +25,6 @@ Da alle Daten in deinem persönlichen iCloud-Account gespeichert sind, können d
 Zuständige Aufsichtsbehörde:
 Landesbeauftragte für Datenschutz Niedersachsen
 Prinzenstraße 5, 30159 Hannover
+
 ---
 Stand: April 2026
