@@ -7,7 +7,7 @@ Ernst-Sievers-Straße 2
 E-Mail: online@frommeyer.de
 
 ## 1. Datenspeicherung
-Alle in der App eingegebenen Daten (Gesprächsnotizen, Reflexionen, Fragen) werden ausschließlich lokal auf dem Gerät des Nutzers gespeichert. Der Entwickler hat keinen Zugriff auf diese Daten.
+Alle in der App eingegebenen Daten (Gesprächsnotizen, Reflexionen, Fragen) werden in deinem persönlichen iCloud-Account gespeichert. Die Daten sind ausschließlich für den Nutzer selbst zugänglich. Der Entwickler hat keinen Zugriff auf diese Daten.
 
 ## 2. KI-Verarbeitung
 Zur Generierung von Mentor-Antworten werden die eingegebenen Texte zur Verarbeitung an einen KI-Dienstleister in den USA übertragen. Die Übertragung erfolgt ausschließlich zur Erbringung der App-Funktion. Eine dauerhafte Speicherung oder Weitergabe der Daten durch den Dienstleister findet nicht statt. Die generierten Antworten werden durch künstliche Intelligenz erzeugt und sind als solche in der App gekennzeichnet (EU AI Act).
@@ -19,8 +19,7 @@ Sofern der Nutzer die optionale Spracheingabe verwendet, erfolgt die Spracherken
 Der Nutzer ist selbst verantwortlich dafür, dass eingegebene Personendaten Dritter den geltenden Datenschutzgesetzen (insb. DSGVO) entsprechen.
 
 ## 5. Betroffenenrechte
-Sie haben das Recht auf Auskunft, Berichtigung und Löschung Ihrer Daten. Da alle Daten lokal auf dem Gerät gespeichert sind, können diese jederzeit direkt in der App gelöscht werden (Einstellungen → Alle Sitzungen löschen).  
-Kontakt: online@frommeyer.de
+Da alle Daten in deinem persönlichen iCloud-Account gespeichert sind, können diese jederzeit direkt in der App gelöscht werden (Einstellungen → Alle Sitzungen löschen). Kontakt: online@frommeyer.de
 
 ## 6. Beschwerderecht
 Zuständige Aufsichtsbehörde:  
