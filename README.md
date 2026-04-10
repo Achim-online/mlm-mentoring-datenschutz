@@ -22,5 +22,8 @@ Der Nutzer ist selbst verantwortlich dafür, dass eingegebene Personendaten Drit
 Da alle Daten in deinem persönlichen iCloud-Account gespeichert sind, können diese jederzeit direkt in der App gelöscht werden (Einstellungen → Alle Sitzungen löschen). Kontakt: online@frommeyer.de
 
 ## 6. Beschwerderecht
-Zuständige Aufsichtsbehörde:  
+Zuständige Aufsichtsbehörde:
 Landesbeauftragte für Datenschutz Niedersachsen
+Prinzenstraße 5, 30159 Hannover
+---
+Stand: April 2026
